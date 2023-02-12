@@ -1,0 +1,16 @@
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\123in2.exe
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\123in2.deps.json
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\123in2.runtimeconfig.json
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\123in2.dll
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\ref\123in2.dll
+D:\Документы\Курсы\С#\Lesson2-2\123in2\bin\Debug\net6.0\123in2.pdb
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.GlobalUsings.g.cs
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.csproj.AssemblyReference.cache
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.AssemblyInfoInputs.cache
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.AssemblyInfo.cs
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.csproj.CoreCompileInputs.cache
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.dll
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\ref\123in2.dll
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.pdb
+D:\Документы\Курсы\С#\Lesson2-2\123in2\obj\Debug\net6.0\123in2.genruntimeconfig.cache
